@@ -28,8 +28,8 @@ def get_llm_client_azure() -> AzureChatOpenAI:
                 azure_endpoint=llm_config["azure_endpoint"],
                 # model_name=azure_config["model_name"], 
                 azure_deployment=llm_config["azure_deployment"],
-                temperature=0,
-                max_tokens = 800,
+                temperature=0.2,
+                max_tokens = 5000,
                 max_retries=1
             )
             logger.debug("AzureOpenAI client initialized successfully.")
@@ -65,8 +65,8 @@ def get_llm_client_openai() -> ChatOpenAI:
                 # azure_endpoint=llm_config["azure_endpoint"],
                 model_name=llm_config["model_name"], 
                 # azure_deployment=llm_config["azure_deployment"],
-                temperature=0.7,
-                max_tokens = 800,
+                temperature=0.2,
+                max_tokens = 5000,
                 max_retries=1
             )
             logger.debug("OpenAI client initialized successfully.")

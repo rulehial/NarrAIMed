@@ -24,8 +24,8 @@ def get_patient_data(patient_id: int, fuente: str):
     pipeline =[
         {
             "$match": {
-                "ID_PACIENTE": patient_id,
-                "FUENTE": fuente
+                "ID_PACIENTE": 1234,
+                "FUENTE": "F_24_04_2020"
             }
         },
         {
@@ -50,6 +50,92 @@ def get_patient_data(patient_id: int, fuente: str):
                 "as": "eventos"
             }
         },
+        {
+            "$lookup": {
+                "from": "medicacion",
+                "let": {
+                    "id_paciente": "$ID_PACIENTE",
+                    "fuente": "$FUENTE"
+                },
+                "pipeline": [
+                    {
+                        "$match": {
+                            "$expr": {
+                                "$and": [
+                                    { "$eq": ["$ID_PACIENTE", "$$id_paciente"] },
+                                    { "$eq": ["$FUENTE", "$$fuente"] }
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "as": "medicacion"
+            }
+        },
+        {
+            "$lookup": {
+                "from": "laboratorio",
+                "let": {
+                    "id_paciente": "$ID_PACIENTE",
+                    "fuente": "$FUENTE"
+                },
+                "pipeline": [
+                    {
+                        "$match": {
+                            "$expr": {
+                                "$and": [
+                                    { "$eq": ["$ID_PACIENTE", "$$id_paciente"] },
+                                    { "$eq": ["$FUENTE", "$$fuente"] }
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "as": "laboratorio"
+            }
+        },
+        {
+            "$lookup": {
+                "from": "cie10_ingreso",
+                "let": {
+                "id_paciente": "$ID_PACIENTE",
+                "fuente": "$FUENTE"
+                },
+                "pipeline": [
+                    {
+                        "$match": {
+                        "$expr": {
+                            "$and": [
+                            { "$eq": ["$ID_PACIENTE", "$$id_paciente"] },
+                            { "$eq": ["$FUENTE", "$$fuente"] }
+                            ]
+                        }
+                        }
+                    },
+                    {
+                        "$project":{
+                        "DIA_PPAL_NORMA":1
+                        }
+                    },
+                    {
+                        "$lookup": {
+                        "from": "cie10_diagnostico",
+                        "localField": "DIA_PPAL_NORMA",  
+                        "foreignField": "CODIGO",        
+                        "as": "diagnostico_ppal"
+                        }
+                    },
+                    {
+                        "$unwind": {
+                        "path": "$diagnostico_ppal",
+                        "preserveNullAndEmptyArrays": True
+                        }
+                    }
+                ],
+                "as": "cie10_ingreso"
+            }
+        }
+
     ]
 
     # records = list(collection.find({"ID_PACIENTE": patient_id,"FUENTE" : fuente}))

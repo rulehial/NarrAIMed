@@ -10,6 +10,7 @@ load_dotenv()                                                   # Carga las vari
 llm_config = {}
 
 print(os.getenv("LLM_TYPE"))
+print(os.getenv("MODEL_NAME"))
 if os.getenv("LLM_TYPE") == 'OPENAI':
     llm_config.update({
         "api_key": os.getenv("API_KEY"), 
@@ -17,6 +18,7 @@ if os.getenv("LLM_TYPE") == 'OPENAI':
     })
     print("Cargando Cliente OpenAI")
     logger.debug("Cargando Cliente OpenAI")
+    # print("NOMBRE MODELO",os.getenv("MODEL_NAME"))
 else:
     llm_config.update({
         "api_key": os.getenv("AZURE_OPENAI_API_KEY"),               # Clave de API de Azure OpenAI

@@ -1,0 +1,56 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 1234
+- **Fecha de Informe:** 26 de junio de 2025
+- **Edad:** 38 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID-19 positivo, neumonía por organismo no especificado (CIE-10: J18)
+
+## Resumen de Ingreso
+El paciente fue ingresado el 8 de abril de 2020, presentando tos como síntoma principal. Al momento de ingreso, los signos vitales eran los siguientes: frecuencia cardíaca (FC) de 86 bpm, presión arterial (TA) de 115/80 mmHg, temperatura de 36.0°C y saturación de oxígeno (Sat O2) del 98%. No se reportó uso de respirador.
+
+## Eventos Clínicos y Signos Vitales
+Durante la hospitalización, se registraron los siguientes eventos clínicos relevantes:
+
+1. **08-04-2020:** FC: 86 bpm, TA: 115/80 mmHg, Temp: 36.0°C
+2. **09-04-2020:** 
+   - FC: 87 bpm, TA: 115/80 mmHg, Temp: 35.5°C
+   - FC: 87 bpm, Temp: 35.8°C
+3. **10-04-2020:**
+   - FC: 86 bpm, TA: 100/60 mmHg, Temp: 35.2°C
+   - FC: 75 bpm, Temp: 36.5°C
+4. **11-04-2020:**
+   - FC: 77 bpm, Temp: 35.5°C
+
+Los parámetros vitales mostraron una ligera variabilidad, pero se mantuvieron dentro de rangos normales, sin episodios febril significativos.
+
+## Medicación Administrada
+Se administraron los siguientes medicamentos durante la hospitalización:
+
+- **DOLQUINE COMP 200 MG:** Desde el 08-04-2020 hasta el 11-04-2020 (dosis media diaria: 3).
+- **HIBOR JER 3.500 UI/0.2 ML:** Desde el 09-04-2020 hasta el 10-04-2020 (dosis media diaria: 1).
+- **PANTOPRAZOL COMP 40 MG:** Solo el 09-04-2020 (dosis media diaria: 1).
+- **AZITROMICINA COMP 500 MG:** Desde el 09-04-2020 hasta el 10-04-2020 (dosis media diaria: 1).
+- **RESOURCE ESPESANTE SB. 6.4G:** Solo el 09-04-2020 (dosis media diaria: 10).
+- **ALCOHOL 70º 1L:** Solo el 09-04-2020 (dosis media diaria: 2).
+
+La administración de DOLQUINE y AZITROMICINA coincide con la estabilización de los signos vitales, sugiriendo un efecto positivo en la evolución clínica del paciente.
+
+## Resultados de Laboratorio
+Los principales hallazgos de laboratorio incluyen:
+
+- **Creatinina:** 0.83 mg/dL (normal).
+- **Glucosa:** 74.0 mg/dL (normal).
+- **Proteína C Reactiva (PCR):** 54.22 mg/L (elevada, indicando inflamación).
+- **Dimero D:** 687.0 ng/mL (elevado, sugiriendo riesgo de trombosis).
+- **Sodio:** 133.0 mmol/L (ligeramente bajo).
+- **GGT:** 64.0 U/L (elevado, indicando posible afectación hepática).
+
+Los resultados de laboratorio muestran una elevación significativa de la PCR y del dimero D, lo que puede estar relacionado con la infección por COVID-19 y el riesgo de complicaciones tromboembólicas.
+
+## Progresión Clínica
+Durante la hospitalización, el paciente mostró una evolución positiva. Los signos vitales se mantuvieron estables, con una tendencia a la normalización de la frecuencia cardíaca y la temperatura. La saturación de oxígeno se mantuvo en niveles adecuados (98%). No se reportaron complicaciones febril o respiratorias significativas. El paciente fue dado de alta el 11 de abril de 2020, cumpliendo con los criterios de recuperación.
+
+## Conclusión y Recomendaciones
+El paciente presenta una evolución clínica favorable, con signos vitales estables y sin complicaciones significativas. Se recomienda un seguimiento ambulatorio para asegurar la continuidad de la recuperación post-alta, así como la monitorización de los niveles de PCR y dimero D, dada su elevación durante la hospitalización. El paciente está clínicamente estable y en condiciones de alta médica.
