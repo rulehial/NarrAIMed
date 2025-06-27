@@ -1,0 +1,43 @@
+📄 **Informe Clínico Narrativo**
+
+🧾 **Información del Paciente**
+- **Paciente ID:** 121
+- **Fecha de Informe:** 26 de junio de 2025
+- **Edad:** 38 años
+- **Sexo:** Femenino
+- **Diagnóstico de Ingreso:** Neumonía viral, no clasificada en otro lugar (CIE-10: J12)
+
+🩺 **Resumen de Ingreso**
+- La paciente fue admitida el 25 de marzo de 2020 con dificultad respiratoria y fiebre (temperatura de 38.8 °C). Al ingreso, se observó una saturación de oxígeno del 94%. La paciente no requería soporte ventilatorio mecánico.
+
+📈 **Eventos Clínicos y Signos Vitales**
+- **Eventos Clínicos:**
+  1. **Fiebre:** Temperatura de 38.8 °C al ingreso.
+  2. **Dificultad Respiratoria:** Requerimiento de oxígeno suplementario desde el ingreso.
+  3. **Bradicardia:** Episodios de frecuencia cardíaca de 64-67 bpm en los días previos al alta.
+  
+- **Signos Vitales:**
+  - **Frecuencia Cardíaca (FC):** Inicialmente 88 bpm, con episodios de bradicardia (mínimo 64 bpm).
+  - **Presión Arterial (TA):** 117/49 mmHg.
+  - **Temperatura:** Inicialmente 38.8 °C, con tendencia a normalizarse.
+  - **Saturación de Oxígeno (Sat O2):** Mantuvo niveles entre 94% y 99% durante la hospitalización.
+
+💊 **Medicación Administrada**
+- **Antibióticos:** Ceftriaxona IV (1 g) desde el 25 hasta el 27 de marzo.
+- **Antivirales:** Kaletra/Aluvia (200+50 mg) desde el 25 de marzo hasta el alta.
+- **Antiinflamatorios:** Roactemra (200 mg) administrado el 28 de marzo.
+- **Oxígeno:** Administración continua durante la hospitalización.
+- **Otros:** Soluciones electrolíticas y antisépticos para manejo de la hidratación y prevención de infecciones.
+
+🧪 **Resultados de Laboratorio**
+- **Fibrinógeno:** Elevado (631 mg/dL), indicando estado inflamatorio.
+- **PCR:** Inicialmente muy elevada (81.36 mg/L), reducida a 11.42 mg/L, sugiriendo resolución de la inflamación.
+- **Dimero D:** Elevado (1188 ng/mL y 944 ng/mL), indicando riesgo de trombosis.
+- **Leucocitos:** En el límite superior (6.6 x10^3/µL), indicando respuesta inmune activa.
+- **Sodio:** Hiponatremia leve (132.3 mmol/L), requiere seguimiento.
+
+📉 **Progresión Clínica**
+- La paciente presentó un empeoramiento inicial con fiebre y dificultad respiratoria. Sin embargo, mostró mejoría progresiva con estabilización de la saturación de oxígeno y normalización de la temperatura. La frecuencia cardíaca, aunque con episodios de bradicardia, se mantuvo en rangos aceptables. La reducción de marcadores inflamatorios como la PCR y el fibrinógeno indica una respuesta positiva al tratamiento.
+
+✅ **Conclusión y Recomendaciones**
+- La paciente ha mostrado una evolución clínica favorable durante su hospitalización por neumonía viral, con respuesta positiva al tratamiento y tendencia hacia la normalización de los parámetros vitales y de laboratorio. Se recomienda un seguimiento cercano tras el alta para monitorear la recuperación completa y prevenir complicaciones, especialmente en relación a los niveles de sodio y marcadores de inflamación y coagulación.

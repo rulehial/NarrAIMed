@@ -1,0 +1,43 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 1234
+- **Fecha de Informe:** 27 de junio de 2025
+- **Edad:** 38 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID-19 positivo, neumonía por organismo no especificado (CIE-10: J18)
+
+## Resumen de Ingreso
+El paciente fue admitido el 8 de abril de 2020, presentando tos como síntoma principal. Al ingreso, los signos vitales mostraron una frecuencia cardíaca de 97 lpm, presión arterial de 140/80 mmHg y temperatura de 35.3°C. No se requirió soporte respiratorio.
+
+## Eventos Clínicos y Signos Vitales
+- **08 de abril:** FC 97 lpm, TA 140/80 mmHg, Temp 35.3°C.
+- **09 de abril:** FC 87 lpm, TA 115/80 mmHg, Temp 35.5°C.
+- **10 de abril:** FC 86 lpm, TA 100/60 mmHg, Temp 36.0°C.
+- **11 de abril:** FC 75 lpm, TA 107/64 mmHg, Temp 36.5°C.
+
+Los signos vitales mostraron una tendencia a la estabilización, con una ligera disminución en la frecuencia cardíaca y una presión arterial que fluctuó, pero sin llegar a niveles críticos. La temperatura se mantuvo dentro de rangos normales, sin fiebre significativa.
+
+## Medicación Administrada
+- **DOLQUINE COMP 200 MG:** Desde el 08-04 hasta el 11-04, dosis media diaria de 3.
+- **HIBOR JER 3.500 UI/0.2 ML:** Desde el 09-04 hasta el 10-04.
+- **PANTOPRAZOL COMP 40 MG:** Administrado el 09-04.
+- **AZITROMICINA COMP 500 MG:** Desde el 09-04 hasta el 10-04.
+- **RESOURCE ESPESANTE SB. 6.4G y ALCOHOL 70º:** Administrados el 09-04.
+
+La administración de AZITROMICINA y HIBOR puede haber contribuido a la estabilización del paciente, sin efectos adversos evidentes.
+
+## Resultados de Laboratorio
+- **PCR:** 54.22 mg/L (referencia <5), indicando una respuesta inflamatoria significativa.
+- **GGT:** 64.0 U/L (referencia <60), sugiriendo posible estrés hepático.
+- **Creatinina:** 0.83 mg/dL (referencia 0.7 - 1.2), dentro de límites normales.
+- **Leucocitos:** 6.9 x10³/µL (referencia 4.4 - 11.3), dentro de límites normales.
+- **Dimero D:** 687 ng/mL (referencia <500), indicando riesgo de trombosis.
+
+Los resultados de laboratorio mostraron elevaciones en marcadores inflamatorios y un leve aumento en el dimero D, lo que puede ser relevante en el contexto de COVID-19.
+
+## Progresión Clínica
+Durante la hospitalización, el paciente mostró una evolución favorable. Los signos vitales se estabilizaron, y no se registraron complicaciones graves. La respuesta al tratamiento fue adecuada, y los resultados de laboratorio, aunque indicativos de inflamación, no mostraron deterioro significativo. El paciente fue dado de alta el 11 de abril en un estado clínicamente estable.
+
+## Conclusión y Recomendaciones
+El paciente presenta una evolución clínica favorable, con signos vitales estables y sin complicaciones. Se recomienda seguimiento ambulatorio para monitorear la recuperación, especialmente en relación a la PCR y otros marcadores inflamatorios. El paciente está en condiciones de alta médica.

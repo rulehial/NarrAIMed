@@ -2,7 +2,6 @@
 
 from pymongo import MongoClient
 import os
-import pandas as pd
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -11,21 +10,41 @@ client = MongoClient(os.getenv("MONGO_URI"))
 db = client[os.getenv("MONGO_DB_NAME")]
 
 
-def get_patient_data(patient_id: int, fuente: str):
-    # print(patient_id, fuente)
-    # ingreso = db["ingresos"].find_one({"ID_PACIENTE": patient_id, "FUENTE": fuente})
+def get_fuentes_data():
 
-    # print(ingreso)
-    # constantes = list(db["constantes_vitales"].find({"ID_PACIENTE": patient_id, "FUENTE": fuente}))
-    # return ingreso, constantes
+    """
+    Devuelve las fuentes disponibles
+
+    """
+    collection = db["ingresos"]
+    pipeline = [
+        {
+            "$group": {
+            "_id": "$FUENTE"
+            }
+        }
+    ]
+
+    records = list(collection.aggregate(pipeline))
+    return records
+
+
+def get_patient_data(patient_id: int, fuente: str):
+    """
+    Devuelve los datos del paciente con el id dado y la fuente dada
+
+    """
+    #Obligoa  que sea entero
+    patient_id = int(patient_id)
 
     collection = db["ingresos"]
+    
 
     pipeline =[
         {
             "$match": {
-                "ID_PACIENTE": 1234,
-                "FUENTE": "F_24_04_2020"
+                "ID_PACIENTE": patient_id,
+                "FUENTE": fuente
             }
         },
         {
@@ -138,7 +157,5 @@ def get_patient_data(patient_id: int, fuente: str):
 
     ]
 
-    # records = list(collection.find({"ID_PACIENTE": patient_id,"FUENTE" : fuente}))
     records = list(collection.aggregate(pipeline))
-    # return pd.DataFrame(records)
     return records

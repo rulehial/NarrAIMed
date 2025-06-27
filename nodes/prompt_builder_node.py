@@ -1,6 +1,6 @@
 from langchain_core.runnables import RunnableLambda
 
-def build_prompt_node():
+def get_prompt_build_node():
     def combine(state):
         return {
             "contenido": f"""Paciente ID: {state['patient_id']}, Fuente: {state['fuente']}

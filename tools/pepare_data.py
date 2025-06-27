@@ -6,8 +6,6 @@ def format_eventos_for_llm(eventos_list):
         return "No hay eventos para este ingreso."
     
 
-    
-
     if eventos_list:
         lines = ["--- Eventos Clínicos Detallados ---"]
         for i, evento in enumerate(eventos_list,start=1):
@@ -37,13 +35,8 @@ def format_eventos_for_llm(eventos_list):
 
             line += ", ".join(detalles) if detalles else "Datos no especificados."
             
-
             lines.append(line)
-
-
         lines.append("")# Línea en blanco
-
-
     return "\n".join(lines)
 
 def format_medicacion_for_llm(medicacion_list):
@@ -105,23 +98,15 @@ def prepare_diagnostico_ppal(cie10_ingreso_data):
     if not cie10_ingreso_data:
         return "No hay registros de diagnóstico para este ingreso."
     
-
     cie10_ingreso = cie10_ingreso_data[0]
     diagnostico_ppal = cie10_ingreso.get("diagnostico_ppal", {})
 
-    # print(diagnostico_ppal)
 
     lines = ["--- Diagnostico Principal segun CIE10 ---"]
-
-
     
     ddpal = diagnostico_ppal
-
-    # print(ddpal)
     codigo = ddpal.get("CODIGO", "Código no especificado")
-
     desc_corta = ddpal.get("DESCRIPCION_CORTA")
-    # inicio_str = inicio.strftime("%Y-%m-%d") if hasattr(inicio, "strftime") else str(inicio)
     desc_larga = ddpal.get("DESCRIPCION_LARGA")
     
     line = (
@@ -129,7 +114,6 @@ def prepare_diagnostico_ppal(cie10_ingreso_data):
     )
     lines.append(line)
     return "\n".join(lines)
-
 
 
 def prepare_historial_for_llm(pacientes: list[dict]) -> str:
@@ -170,15 +154,5 @@ def prepare_historial_for_llm(pacientes: list[dict]) -> str:
         historial_text.append(f"TA Max: {paciente.get('TA_MAX_ULTIMA_URGENCIA')}")
         historial_text.append(f"TA Min: {paciente.get('TA_MIN_ULTIMA_URGENCIA')}")
         historial_text.append("")
-
-    
-    
-    # # 3. Eventos 
-    # eventos = paciente.get("eventos", [])
-    # historial_text.append(format_eventos_for_llm(eventos))
-
-    # # Medicación
-    # medicacion = paciente.get("medicacion", [])
-    # historial_text.append(format_medicacion_for_llm(medicacion))
 
     return "\n".join(historial_text)
