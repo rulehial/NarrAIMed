@@ -3,6 +3,7 @@ from db.mongo_utils import get_patient_data, get_fuentes_data
 from tools.pepare_data import prepare_historial_for_llm, format_eventos_for_llm, format_medicacion_for_llm, format_laboratorio_for_llm, prepare_diagnostico_ppal
 import streamlit as st
 from datetime import datetime
+from pathlib import Path
 
 
 fuentes_disponibles = [doc['_id'] for doc in get_fuentes_data()]
@@ -72,7 +73,12 @@ if st.button("Generar narrativa"):
                 # Imprimimos narrativa
                 st.subheader("📄 Informe Narrativo")
                 st.markdown(narrativa)
-                print(narrativa,  file=open(f'narrativas\{patient_id}__{fuente}__{datetime.now().strftime("%Y_%m_%d__%H_%M_%S")}.txt', 'w',encoding="utf-8"))
+
+                #Guardo txt con la narrativa generada
+                output_path = Path("narrativas") / f"{patient_id}__{fuente}__{datetime.now().strftime('%Y_%m_%d__%H_%M_%S')}.txt"
+                output_path.parent.mkdir(parents=True, exist_ok=True)
+                output_path.write_text(narrativa, encoding="utf-8")
+
             else:
                 st.warning("🕵️‍♀️ No se encontró el paciente.")
     else:
