@@ -71,8 +71,9 @@ streamlit run main.py
 
 ## 📁 Ejemplo de salida
 
-```
-Se genera un informe clínico como:
+
+#### Se genera un informe clínico como:
+---
 
 📄 **Informe Clínico Narrativo**
 
@@ -106,15 +107,15 @@ Durante la hospitalización, el paciente no presentó eventos clínicos signific
 ✅ **Conclusión y Recomendaciones**
 - **Estado General:** El paciente fue ingresado con sospecha de COVID-19, pero no se registraron eventos clínicos, medicación o exámenes de laboratorio, lo que indica que no hubo complicaciones durante su breve estancia hospitalaria.
 - **Recomendaciones:** Para futuros ingresos, es crucial registrar cualquier evento clínico, administración de medicamentos y resultados de laboratorio, incluso en pacientes que parecen estables, para proporcionar un seguimiento más completo y facilitar la toma de decisiones clínicas.
-```
+---
 
-Guardado automáticamente como:
+#### Guardado automáticamente como:
 
 ```
 narrativas/3_F_24_04_2020_2025_06_26_12_30.txt
 ```
 
-🧠 Créditos
+### 🧠 Créditos
 
 - Desarrollado por [Rubén Hidalgo] para el Trabajo de Fin de Máster - UNIR (Visual Analytics & Big Data).
 - Supervisado por el equipo de TFM de la UNIR [María Corina Rodriguez] - [María Paula Jaramillo].
