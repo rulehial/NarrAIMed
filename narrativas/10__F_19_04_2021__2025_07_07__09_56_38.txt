@@ -1,0 +1,42 @@
+📄 **Informe Clínico Narrativo**
+
+🧾 **Información del Paciente**
+- **Paciente ID:** 10
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 76 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID-19 positivo
+
+🩺 **Resumen de Ingreso**
+El paciente fue ingresado el 06 de diciembre de 2020 con diagnóstico de COVID-19 positivo, presentando fiebre y deterioro respiratorio. Al ingreso, los signos vitales mostraron una frecuencia cardíaca de 77 bpm, presión arterial de 136/75 mmHg y temperatura de 36.5°C. Se inició tratamiento inmediato debido a la sospecha de complicaciones asociadas a la infección viral.
+
+📈 **Eventos Clínicos y Signos Vitales**
+- **06/12/2020:** Inicio de fiebre (temperatura 36.5°C).
+- **09/12/2020:** Pico febril de 38.7°C, con frecuencia cardíaca de 74 bpm y presión arterial de 130/67 mmHg.
+- **10/12/2020:** Deterioro en la saturación de oxígeno (63%).
+- **22/12/2020:** Saturación de oxígeno en 63%, indicando hipoxemia severa.
+- **24/12/2020:** Mejora en la presión arterial (100/62 mmHg) y estabilización de la frecuencia cardíaca (87 bpm).
+- **29/12/2020:** Alta médica, con signos vitales estables (frecuencia cardíaca 78 bpm, presión arterial 126/74 mmHg, temperatura 36.4°C).
+
+**Signos Vitales Clave:**
+- Frecuencia cardíaca: 63-88 bpm, con episodios de taquicardia.
+- Presión arterial: fluctuaciones con episodios de hipotensión.
+- Temperatura: fluctuaciones con picos febril.
+- Saturación de oxígeno: 63% a 99%, con hipoxemia severa el 22/12/2020.
+
+💊 **Medicación Administrada**
+- **Oxígeno:** Desde el 08/12/2020 hasta el 28/12/2020, administrado para manejar la hipoxemia.
+- **Meropenem:** Del 09/12/2020 al 13/12/2020, para prevenir infecciones secundarias.
+- **Dexametasona:** Del 07/12/2020 al 20/12/2020, para reducir la inflamación asociada a COVID-19.
+- **Paracetamol:** Administrado en múltiples ocasiones para el control de la fiebre.
+- **Insulina (Actrapid y Lantus):** Para el manejo de hiperglucemia asociada al tratamiento con dexametasona.
+
+🧪 **Resultados de Laboratorio**
+- **RT-PCR COVID-19:** No se detecta virus en exudado, lo que sugiere una respuesta inmune adecuada tras el tratamiento.
+- **Otros análisis:** No se reportan resultados críticos adicionales durante la hospitalización.
+
+📉 **Progresión Clínica**
+El paciente presentó un curso clínico complicado inicialmente, con fiebre persistente y deterioro respiratorio. Sin embargo, a partir del 10 de diciembre, se observó una tendencia hacia la mejoría, con estabilización de la temperatura y signos vitales. La saturación de oxígeno mejoró significativamente tras el manejo con oxígeno suplementario. La administración de antibióticos y corticosteroides fue crucial para el control de la infección y la inflamación.
+
+✅ **Conclusión y Recomendaciones**
+El paciente ha mostrado una evolución favorable y se encuentra clínicamente estable al momento del alta. Se recomienda seguimiento ambulatorio para monitorizar la recuperación y evaluar posibles secuelas post-COVID-19. Se sugiere continuar con el manejo de la glucosa y realizar controles periódicos de la función pulmonar.

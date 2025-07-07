@@ -1,0 +1,62 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 123
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 49 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID positivo
+- **Fecha de Ingreso:** 25 de marzo de 2020
+- **Fecha de Alta:** 31 de marzo de 2020
+- **Motivo de Alta:** Domicilio
+- **Diagnóstico de Urgencia:** Dificultad respiratoria
+- **Respirador:** No
+
+---
+
+## Resumen de Ingreso
+El paciente fue admitido con un diagnóstico de COVID-19, presentando dificultad respiratoria significativa. Al ingreso, se registró una frecuencia cardíaca elevada (113 bpm) y una temperatura de 37.5°C. La saturación de oxígeno fue del 95%, y la presión arterial se encontraba dentro de rangos normales, aunque con episodios de ligera hipotensión.
+
+---
+
+## Eventos Clínicos y Signos Vitales
+1. **Frecuencia Cardíaca (FC):**
+   - Inicialmente elevada (113 bpm) al ingreso.
+   - Disminución progresiva a 62 bpm en la madrugada del 31 de marzo, indicando mejoría.
+
+2. **Temperatura:**
+   - Fluctuaciones desde 37.5°C al ingreso, alcanzando un pico de 37.6°C el 26 de marzo.
+   - Estabilización en torno a 36.5°C a 36.9°C en los días posteriores.
+
+3. **Saturación de Oxígeno (Sat O2):**
+   - Mantenida en 95% en la última urgencia, aceptable en el contexto de COVID-19.
+
+4. **Tensión Arterial (TA):**
+   - Valores normales, con ligera hipotensión (110/60 mmHg) el 26 de marzo.
+
+---
+
+## Medicación Administrada
+- **DOLQUINE (Aminoquinolinas):** Administrado del 25 al 30 de marzo.
+- **PARACETAMOL:** Administrado en solución y tabletas para manejo de fiebre y dolor.
+- **KALETRA (Antivirales):** Utilizado del 25 al 31 de marzo, esencial para el tratamiento de COVID-19.
+- **CEFTRIAXONA (Cefalosporinas):** Administrada durante toda la hospitalización para prevención de infecciones secundarias.
+- **HIBOR (Heparina):** Administrada en dos formulaciones, importante para el manejo de la coagulación.
+
+---
+
+## Resultados de Laboratorio
+- **Dímero D:** Valores elevados (3531 ng/ml y 886 ng/ml), indicando riesgo de trombosis.
+- **LDH:** Elevación (384.5 U/L y 612.8 U/L), sugiriendo daño tisular asociado a COVID-19.
+- **Proteína C Reactiva (PCR):** Muy elevada (39.57 mg/L y 53.12 mg/L), indicando inflamación significativa.
+- **Leucocitos y Neutrófilos:** Recuentos dentro de rangos normales, con disminución de linfocitos, sugiriendo respuesta inmune alterada.
+
+---
+
+## Progresión Clínica
+Durante la hospitalización, el paciente mostró una evolución clínica positiva. La frecuencia cardíaca y la temperatura se normalizaron, indicando una respuesta favorable al tratamiento. La saturación de oxígeno se mantuvo en niveles aceptables. Sin embargo, los niveles elevados de dímero D y LDH requieren un seguimiento continuo debido al riesgo de complicaciones trombóticas.
+
+---
+
+## Conclusión y Recomendaciones
+El paciente ha mostrado una evolución favorable durante su ingreso, con mejoría notable en los signos vitales. Sin embargo, los resultados de laboratorio sugieren un riesgo elevado de complicaciones, especialmente trombosis. Se recomienda un seguimiento post-alta para asegurar la recuperación completa y gestionar cualquier complicación potencial relacionada con COVID-19. El paciente está clínicamente estable y en condiciones de alta médica.

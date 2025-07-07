@@ -1,0 +1,44 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 10
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 63 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** Neumonía viral no clasificada en otra parte (CIE-10: J12)
+
+## Resumen de Ingreso
+El paciente fue ingresado el 1 de abril de 2020 con diagnóstico de neumonía viral, confirmado por pruebas de laboratorio. Al ingreso, presentaba signos de dificultad respiratoria, con una frecuencia cardíaca (FC) de 101 lpm y una presión arterial (TA) de 98/61 mmHg. La saturación de oxígeno (Sat O2) era del 92%, lo que indicaba hipoxemia moderada.
+
+## Eventos Clínicos y Signos Vitales
+- **Frecuencia Cardíaca (FC):** Osciló entre 74 y 101 lpm, con tendencia a la disminución hacia el alta.
+- **Presión Arterial (TA):** Variaciones entre 98/61 mmHg y 132/68 mmHg, con episodios de hipotensión el 25 de abril.
+- **Saturación de Oxígeno (Sat O2):** Generalmente buena, alcanzando hasta el 100%, aunque se registraron episodios de hipoxemia.
+
+### Eventos Clínicos Relevantes
+1. **Inicio de Fiebre:** No se reportó fiebre, pero se observó elevación de PCR y LDH.
+2. **Hipotensión:** Episodios de TA baja, especialmente el 25 de abril.
+3. **Taquicardia:** Inicialmente elevada, disminuyendo hacia el alta.
+4. **Recuperación:** Mejoría en la FC y Sat O2 en los días previos al alta.
+
+## Medicación Administrada
+- **Antibióticos:** Ceftriaxona y Meropenem, administrados para tratar infecciones bacterianas secundarias.
+- **Antiinflamatorios:** Dexametasona, utilizada para reducir la inflamación asociada a COVID-19.
+- **Anticoagulantes:** Hibor, para prevenir complicaciones tromboembólicas.
+
+### Efectos Secundarios Potenciales
+- Aumento en los niveles de LDH y PCR, indicando inflamación o daño tisular.
+
+## Resultados de Laboratorio
+- **Leucocitos:** Elevados en varios momentos, indicando respuesta inflamatoria.
+- **PCR:** Persistentemente altos, sugiriendo inflamación activa.
+- **Dímero D:** Valores muy elevados, indicando riesgo de trombosis.
+- **Hemoglobina y Hematocrito:** Consistentemente bajos, sugiriendo anemia o hemoconcentración.
+- **Electrolitos:** Fluctuaciones en potasio y sodio, que deben ser monitoreadas.
+
+## Progresión Clínica
+El paciente mostró signos de mejoría general, con estabilización de la frecuencia cardíaca y saturación de oxígeno. Sin embargo, la presencia de hipotensión y niveles elevados de dímero D y LDH son preocupantes y requieren seguimiento.
+
+## Conclusión y Recomendaciones
+- **Estado Actual:** El paciente ha mostrado mejoría y está en condiciones de alta médica.
+- **Seguimiento:** Se recomienda continuar el monitoreo de los niveles de LDH, PCR y dímero D, así como la función respiratoria y hemodinámica en el seguimiento ambulatorio.

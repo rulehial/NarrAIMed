@@ -10,6 +10,7 @@ llm_config = {}
 
 print(os.getenv("LLM_TYPE"))
 print(os.getenv("MODEL_NAME"))
+print(os.getenv("API_KEY"))
 
 llm_config.update({
     "api_key": os.getenv("API_KEY"), 

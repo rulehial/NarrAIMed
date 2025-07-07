@@ -20,7 +20,7 @@ def get_llm_client_openai() -> ChatOpenAI:
             
             _client_instance = ChatOpenAI(        
                 api_key=llm_config["api_key"],
-                model_name=llm_config["model_name"], 
+                model=llm_config["model_name"], 
                 temperature=0.2,
                 max_tokens = 5000,
                 max_retries=1

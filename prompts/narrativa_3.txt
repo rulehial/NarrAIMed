@@ -41,5 +41,5 @@ Analiza el historial médico a continuación, que incluye datos generales del pa
 
 Redacta el informe en lenguaje clínico claro, evitando repeticiones innecesarias. Mantén una estructura lógica y jerarquizada que facilite la comprensión por parte de otros profesionales de salud.
 
-Historial del paciente:
+Análisis del paciente:
 {historial}

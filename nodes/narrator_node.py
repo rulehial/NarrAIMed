@@ -12,13 +12,15 @@ def get_narrative_node():
             patient_id=state["patient_id"],
             fuente=state["fuente"],
             fecha_informe=datetime.now().strftime("%d de %B de %Y"),
-            historial=state["contenido"] or state["historial"]
+            # historial=state["contenido"] or state["historial"]
+            historial=state["progresion"]
         )
     
 
         llm = get_llm_client_openai()
         response = llm.invoke([HumanMessage(content=formatted_prompt)])
-        state["narrativa"] = response.content
+        # state["narrativa"] = response.content
+        state["narrativa"] = response
         return state
     return RunnableLambda(_run)
 

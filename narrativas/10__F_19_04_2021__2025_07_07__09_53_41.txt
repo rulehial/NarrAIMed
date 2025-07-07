@@ -1,0 +1,45 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 10
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 76 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID-19 positivo
+
+## Resumen de Ingreso
+El paciente fue ingresado el 6 de diciembre de 2020 con diagnóstico de COVID-19 positivo. Al momento del ingreso, presentaba fiebre (temperatura de 38.0°C), taquicardia (frecuencia cardíaca de 73 bpm) y presión arterial ligeramente elevada (TA: 136/75 mmHg). Se inició tratamiento con oxígeno debido a la hipoxemia.
+
+## Eventos Clínicos y Signos Vitales
+1. **2020-12-06 17:38:** FC: 77 bpm, TA: 136/75 mmHg, Temp: 36.5°C
+2. **2020-12-06 23:30:** FC: 73 bpm, TA: 135/74 mmHg, Temp: 38.0°C
+3. **2020-12-07 08:56:** FC: 82 bpm, TA: 153/77 mmHg, Temp: 37.0°C
+4. **2020-12-07 15:42:** FC: 78 bpm, TA: 160/77 mmHg, Temp: 36.6°C
+5. **2020-12-08 01:36:** Temp: 36.6°C
+6. **2020-12-08 08:36:** FC: 69 bpm, TA: 131/69 mmHg, Temp: 36.7°C
+7. **2020-12-09 06:46:** Temp: 38.7°C
+8. **2020-12-10 08:58:** FC: 71 bpm, TA: 138/79 mmHg, Temp: 36.6°C
+9. **2020-12-23 10:03:** FC: 78 bpm, TA: 126/74 mmHg, Temp: 36.4°C
+10. **2020-12-29 09:37:** FC: 88 bpm, TA: 130/66 mmHg, Temp: 36.6°C
+
+**Signos Vitales Clave:**
+- La frecuencia cardíaca fluctuó entre 63 y 88 bpm, con episodios de taquicardia.
+- La presión arterial mostró episodios de hipotensión, especialmente el 8 de diciembre (TA: 113/57 mmHg).
+- La temperatura presentó picos febril hasta 38.7°C, estabilizándose hacia el final de la hospitalización.
+
+## Medicación Administrada
+- **Oxígeno:** Desde el 2020-12-08 hasta el 2020-12-28, dosis media diaria de 24.
+- **Meropenem:** Del 2020-12-09 al 2020-12-13, para manejo de sobreinfección.
+- **Dexametasona:** Del 2020-12-07 al 2020-12-20, para reducir inflamación.
+- **Paracetamol:** Administrado en múltiples ocasiones para controlar fiebre.
+- **Otros medicamentos:** Incluyen antibióticos, soluciones electrolíticas y analgésicos.
+
+## Resultados de Laboratorio
+- **PCR COVID-19:** Resultado "NO SE DETECTA", indicando posible resolución de la infección activa.
+- Otros análisis no especificados en el historial, pero se sugiere seguimiento de parámetros electrolíticos y función renal debido a la administración de múltiples soluciones intravenosas.
+
+## Progresión Clínica
+Durante la hospitalización, el paciente presentó un curso clínico complicado inicialmente, con fiebre y fluctuaciones en las constantes vitales. Sin embargo, a partir del 23 de diciembre, se observó una tendencia hacia la estabilidad, con constantes vitales dentro de rangos normales y una temperatura más baja. La administración de oxígeno y el tratamiento con antibióticos y corticosteroides fueron efectivos en el manejo de la hipoxemia y la inflamación.
+
+## Conclusión y Recomendaciones
+El paciente ha mostrado mejoría clínica significativa y se encuentra en condiciones de ser dado de alta. Se recomienda seguimiento ambulatorio para asegurar la recuperación completa y monitorear posibles efectos a largo plazo del COVID-19. Es fundamental continuar con la evaluación de su estado respiratorio y general en los próximos días.

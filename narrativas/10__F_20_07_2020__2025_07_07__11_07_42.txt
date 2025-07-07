@@ -1,0 +1,46 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 10
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 63 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** Neumonía viral (CIE-10: J12)
+
+## Resumen de Ingreso
+El paciente fue ingresado el 1 de abril de 2020 con diagnóstico de neumonía viral, confirmado por PCR. Presentaba disnea, tos seca y fiebre. Al ingreso, los signos vitales mostraban una frecuencia cardíaca de 92 lpm, presión arterial de 98/68 mmHg y saturación de oxígeno del 89% en aire ambiente. Se inició oxigenoterapia y tratamiento antibiótico.
+
+## Eventos Clínicos y Signos Vitales
+- **Día 1 (01/04/2020):** FC: 92, TA: 98/68 mmHg, Sat O2: 89%
+- **Día 3 (03/04/2020):** FC: 101, TA: 95/60 mmHg, Sat O2: 85%
+- **Día 5 (05/04/2020):** FC: 90, TA: 100/65 mmHg, Sat O2: 90%
+- **Día 10 (10/04/2020):** FC: 80, TA: 110/70 mmHg, Sat O2: 92%
+- **Día 15 (15/04/2020):** FC: 75, TA: 120/75 mmHg, Sat O2: 95%
+- **Día 20 (20/04/2020):** FC: 78, TA: 115/80 mmHg, Sat O2: 97%
+- **Día 30 (30/04/2020):** FC: 74, TA: 130/85 mmHg, Sat O2: 99%
+
+Los signos vitales mostraron una tendencia a la estabilización y mejora a lo largo de la hospitalización, con una saturación de oxígeno que se mantuvo por encima del 90% en los últimos días.
+
+## Medicación Administrada
+- **Ceftriaxona:** 1 g IV, desde el 02/04/2020 hasta el 02/04/2020.
+- **Meropenem:** 1 g IV, desde el 22/04/2020 hasta el 22/04/2020.
+- **Dexametasona:** 4 mg IV, desde el 05/04/2020 hasta el 15/04/2020.
+- **Oxígeno:** 21 L/día, desde el 01/04/2020 hasta el 21/04/2020.
+- **Ventolin y Atrovent:** administrados según necesidad para el manejo de la disnea.
+
+La administración de antibióticos y glucocorticoides fue fundamental para el control de la inflamación y la infección.
+
+## Resultados de Laboratorio
+- **PCR:** Elevada en los primeros días (26.29 mg/L) y disminuyó a niveles normales (por debajo de 5 mg/L) hacia el final de la hospitalización.
+- **LDH:** Inicialmente elevado (569 U/L) y con tendencia a normalizarse (480 U/L).
+- **Hemoglobina:** Inicialmente baja (9.4 g/dL) y mejoró a 10.4 g/dL.
+- **Creatinina:** Se mantuvo dentro de límites normales (0.72 - 0.99 mg/dL).
+- **Glucosa:** Niveles fluctuantes, alcanzando hasta 114 mg/dL.
+
+Los resultados de laboratorio reflejan una respuesta positiva al tratamiento, con disminución de marcadores inflamatorios y mejora en los parámetros hematológicos.
+
+## Progresión Clínica
+Durante la hospitalización, el paciente mostró un deterioro inicial con necesidad de soporte respiratorio y fluctuaciones en los signos vitales. Sin embargo, a partir del día 10, se observó una mejoría progresiva en la saturación de oxígeno y estabilización de la frecuencia cardíaca y presión arterial. La respuesta al tratamiento fue favorable, con normalización de los niveles de PCR y LDH, y el paciente fue dado de alta el 3 de mayo de 2020.
+
+## Conclusión y Recomendaciones
+El paciente ha mostrado una evolución clínica favorable, con resolución de la neumonía viral y estabilización de los signos vitales. Actualmente, se encuentra clínicamente estable y en condiciones de alta médica. Se recomienda seguimiento ambulatorio para monitorear la recuperación completa y evaluar posibles secuelas respiratorias.

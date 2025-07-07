@@ -1,0 +1,58 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 123
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 73 años
+- **Sexo:** Femenino
+- **Diagnóstico de Ingreso:** COVID SOSPECHA
+
+## Resumen de Ingreso
+La paciente fue admitida el 20 de diciembre de 2020 debido a dificultad respiratoria, con un diagnóstico inicial de COVID-19 sospechoso. Al ingreso, presentó una frecuencia cardíaca de 72 lpm, presión arterial de 120/70 mmHg, temperatura de 36.1°C y saturación de oxígeno del 98%. No requirió soporte respiratorio.
+
+## Eventos Clínicos y Signos Vitales
+Durante la hospitalización, se registraron los siguientes eventos clínicos relevantes:
+
+1. **20 de diciembre de 2020:**
+   - **18:56:** FC: 72, TA: 120/70, Temp: 36.1°C, Sat O2: 98%
+   - **23:46:** FC: 85, TA: 118/67, Temp: 36.3°C, Sat O2: 96%
+
+2. **21 de diciembre de 2020:**
+   - **06:41:** FC: 73, Temp: 36.1°C, Sat O2: 94%
+   - **10:29:** FC: 80, TA: 111/57, Temp: 36.2°C, Sat O2: 95%
+   - **16:42:** Temp: 36.3°C, Sat O2: 100%
+
+3. **22 de diciembre de 2020:**
+   - **00:05:** FC: 83, TA: 110/56, Temp: 36.5°C, Sat O2: 94%
+   - **11:50:** FC: 73, TA: 116/58, Temp: 36.2°C, Sat O2: 96%
+   - **17:47:** Temp: 36.2°C, Sat O2: 95%
+   - **22:56:** FC: 90, TA: 100/60, Temp: 36.4°C, Sat O2: 96%
+
+4. **23 de diciembre de 2020:**
+   - **06:44:** Temp: 36.2°C, Sat O2: 95%
+   - **11:49:** FC: 73, TA: 137/89, Temp: 36.3°C, Sat O2: 98%
+
+**Resumen de Signos Vitales:**
+- **Frecuencia Cardíaca:** Fluctuaciones desde 72 hasta 90 lpm, con episodios de taquicardia.
+- **Presión Arterial:** Hipotensión leve en algunas mediciones, estabilizándose hacia el alta.
+- **Temperatura:** Estable, sin fiebre significativa.
+- **Saturación de Oxígeno:** Adecuada, con valores entre 94% y 100%.
+
+## Medicación Administrada
+- **Enalapril 5 mg:** Desde el 21 hasta el 23 de diciembre, para control de presión arterial.
+- **Omeprazol 20 mg:** Desde el 21 hasta el 23 de diciembre, para protección gástrica.
+- **Quetiapina 100 mg:** Desde el 21 hasta el 23 de diciembre, para manejo de ansiedad.
+- **Paracetamol 1 g:** Desde el 21 hasta el 23 de diciembre, para control de fiebre.
+- **Levofloxacino 500 mg:** Desde el 22 hasta el 23 de diciembre, para prevención de infecciones.
+- **Clexane 40 mg:** Desde el 21 hasta el 23 de diciembre, para profilaxis de trombosis.
+- **Atorvastatina 20 mg:** Desde el 21 hasta el 23 de diciembre, para manejo de lípidos.
+- **Clorhexidina acuosa 2%:** 22 de diciembre, para higiene.
+
+## Resultados de Laboratorio
+No se registraron resultados de laboratorio durante este ingreso.
+
+## Progresión Clínica
+La paciente mostró una evolución favorable durante su hospitalización. A pesar de las fluctuaciones en la frecuencia cardíaca y episodios de hipotensión, la saturación de oxígeno se mantuvo adecuada y la temperatura fue estable. La administración de medicamentos, especialmente Enalapril y Paracetamol, contribuyó a la estabilización de la presión arterial y al control del malestar. No se requirió soporte respiratorio, lo que es un indicativo positivo en el contexto de COVID-19.
+
+## Conclusión y Recomendaciones
+La paciente ha mostrado una evolución clínica favorable, con estabilización de constantes vitales y adecuada respuesta a la medicación. Se considera que está clínicamente estable y en condiciones de alta médica. Se recomienda seguimiento ambulatorio para asegurar la continuidad de la recuperación y monitorización de la presión arterial y frecuencia cardíaca.

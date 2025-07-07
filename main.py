@@ -65,19 +65,38 @@ if st.button("Generar narrativa"):
 
                 # Ejecutar el grafo
                 result = graph.invoke(input_data) 
+                # narrativa = result.content["narrativa"]
                 narrativa = result["narrativa"]
-
+                
+                progresion = result["progresion"]
+                
+                print(" ")
+                print(" ")
+                print("********************************NODO_TIMELINE********************************")
+                print("MetaData --->",progresion.response_metadata)
+                print("completion_tokens -->",progresion.response_metadata["token_usage"]["completion_tokens"])
+                print("prompt_tokens -->",progresion.response_metadata["token_usage"]["prompt_tokens"])
+                print("total_tokens -->",progresion.response_metadata["token_usage"]["total_tokens"])
+                print(" ")
+                print(" ")
+                print("********************************NODO_NARRATIVA********************************")
+                print("MetaData --->",narrativa.response_metadata)
+                print("completion_tokens -->",narrativa.response_metadata["token_usage"]["completion_tokens"])
+                print("prompt_tokens -->",narrativa.response_metadata["token_usage"]["prompt_tokens"])
+                print("total_tokens -->",narrativa.response_metadata["token_usage"]["total_tokens"])
+                print(" ")
+                print(" ")
 
                 spinner_placeholder.success("✅ Narrativa generada exitosamente.")
 
                 # Imprimimos narrativa
                 st.subheader("📄 Informe Narrativo")
-                st.markdown(narrativa)
+                st.markdown(narrativa.content)
 
                 #Guardo txt con la narrativa generada
                 output_path = Path("narrativas") / f"{patient_id}__{fuente}__{datetime.now().strftime('%Y_%m_%d__%H_%M_%S')}.txt"
                 output_path.parent.mkdir(parents=True, exist_ok=True)
-                output_path.write_text(narrativa, encoding="utf-8")
+                output_path.write_text(narrativa.content, encoding="utf-8")
 
             else:
                 st.warning("🕵️‍♀️ No se encontró el paciente.")

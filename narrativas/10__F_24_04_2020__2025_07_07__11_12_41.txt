@@ -1,0 +1,56 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 10
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 63 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID-19 positivo
+- **Fecha de Ingreso:** 01 de abril de 2020
+- **Fecha de Alta:** No disponible
+- **Respirador:** No
+
+## Resumen de Ingreso
+El paciente fue admitido con diagnóstico de COVID-19 positivo. Al momento de ingreso, se encontraba estable, sin necesidad de soporte respiratorio. Los signos vitales iniciales mostraron una frecuencia cardíaca de 83 latidos por minuto, presión arterial de 110/70 mmHg y temperatura dentro de rangos normales (36.5°C).
+
+## Eventos Clínicos y Signos Vitales
+Durante la hospitalización, se registraron los siguientes eventos clínicos relevantes:
+
+1. **Frecuencia Cardíaca (FC):**
+   - 21 de abril: FC de 83.0 (estabilidad).
+   - 22 de abril: FC fluctuante, alcanzando un pico de 101.0, indicando posible taquicardia.
+   - 23 de abril: FC se estabiliza en 87.0 y 94.0, sugiriendo una mejoría.
+
+2. **Temperatura:**
+   - Se mantuvo entre 35.6°C y 36.9°C, sin fiebre significativa.
+
+3. **Presión Arterial (TA):**
+   - Valores de TA de 106/70 mmHg y 116/72 mmHg, adecuados y sin indicios de hipotensión.
+
+## Medicación Administrada
+Se administraron los siguientes fármacos:
+
+1. **Antibióticos:**
+   - **Ceftriaxona** y **Meropenem**: Inicio el 5 de abril, continuando hasta el 15 de abril.
+   - **Vancomicina** y **Piperacilina/Tazobactam**: Administrados para prevenir o tratar infecciones secundarias.
+
+2. **Antiinflamatorios:**
+   - **Dexametasona**: Administrada del 5 al 15 de abril, alineada con el manejo de la inflamación en COVID-19.
+
+3. **Soporte Nutricional:**
+   - Soluciones de nutrición parenteral y dietas completas.
+
+4. **Otros Medicamentos:**
+   - **Heparinas (Hibor)**: Para profilaxis de trombosis.
+
+## Resultados de Laboratorio
+Los hallazgos de laboratorio más relevantes incluyen:
+
+- **Hemograma:** Leucocitos dentro de rango normal, sin signos de leucocitosis.
+- **Marcadores de inflamación:** PCR y D-dímero dentro de límites aceptables, sin indicios de complicaciones tromboembólicas.
+
+## Progresión Clínica
+La evolución del paciente mostró fluctuaciones en la frecuencia cardíaca, con un episodio de taquicardia el 22 de abril, que se correlacionó con la administración de antibióticos y antiinflamatorios. Sin embargo, la estabilización de la FC el 23 de abril sugiere una posible mejoría. La temperatura se mantuvo normal, y no se registraron episodios de fiebre o hipotensión.
+
+## Conclusión y Recomendaciones
+El paciente presenta una evolución clínica favorable, con estabilización de la frecuencia cardíaca y sin signos de fiebre o hipotensión. Se recomienda continuar con el monitoreo de los signos vitales y la respuesta a la terapia antibiótica y antiinflamatoria. Se sugiere una reevaluación en los próximos días para determinar la necesidad de ajustes en el tratamiento o considerar el alta médica, dependiendo de la evolución clínica.

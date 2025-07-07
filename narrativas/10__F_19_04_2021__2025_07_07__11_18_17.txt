@@ -1,0 +1,73 @@
+# Informe Clínico Narrativo
+
+## Información del Paciente
+- **Paciente ID:** 10
+- **Fecha de Informe:** 07 de julio de 2025
+- **Edad:** 76 años
+- **Sexo:** Masculino
+- **Diagnóstico de Ingreso:** COVID Positivo
+- **Fecha de Ingreso:** 06 de diciembre de 2020
+- **Fecha de Alta:** 29 de diciembre de 2020
+- **Motivo de Alta:** Domicilio
+- **Respirador:** Sí
+
+---
+
+## Resumen de Ingreso
+El paciente fue admitido con diagnóstico de COVID-19, presentando fiebre y dificultad respiratoria. Al ingreso, los signos vitales mostraron una frecuencia cardíaca de 81 lpm, presión arterial de 108/69 mmHg, temperatura de 36.3°C y saturación de oxígeno del 96%. Se inició oxigenoterapia debido a la necesidad de soporte respiratorio.
+
+---
+
+## Eventos Clínicos y Signos Vitales
+
+### 1. Eventos Clínicos
+- **Inicio de Ingreso (06-12-2020):**
+  - **FC:** 81.0 lpm, **TA:** 108/69 mmHg, **Temp:** 36.3°C, **Sat O2:** 96.0%
+  - **Fiebre reportada** en urgencias.
+
+- **Evolución Inicial (06-12-2020 a 09-12-2020):**
+  - **Fiebre:** Temperatura alcanzó hasta 38.7°C el 09-12-2020.
+  - **Frecuencia Cardíaca:** Variaciones entre 73.0 y 82.0 lpm.
+  - **Presión Arterial:** Cifras elevadas, alcanzando hasta 160/77 mmHg.
+  - **Oxigenación:** Se inicia oxigenoterapia, con saturaciones fluctuantes.
+
+- **Estabilización (10-12-2020 a 20-12-2020):**
+  - **Temperatura:** Estabilizada entre 36.0 y 37.5°C.
+  - **Frecuencia Cardíaca:** Mantenida entre 71.0 y 84.0 lpm.
+  - **Presión Arterial:** Mejora con cifras más estables.
+  - **Oxigenación:** Saturación de O2 mejorando, alcanzando hasta 98.0%.
+
+- **Mejoría y Alta (21-12-2020 a 29-12-2020):**
+  - **Temperatura:** Sin fiebre, estable.
+  - **Frecuencia Cardíaca:** Estabilizada entre 78 y 84 lpm.
+  - **Oxigenación:** Saturación de O2 entre 94.0 y 97.0%.
+  - **Alta:** Paciente dado de alta el 29-12-2020.
+
+### 2. Signos Vitales
+- **Frecuencia Cardíaca:** Inicialmente elevada, estabilizándose durante la hospitalización.
+- **Presión Arterial:** Inicialmente elevada, mejorando con el tratamiento.
+- **Temperatura:** Fiebre inicial, normalizándose posteriormente.
+- **Saturación de O2:** Mejora significativa, crucial para la recuperación.
+
+---
+
+## Medicación Administrada
+- **Oxígeno:** Administrado desde el 08-12-2020 hasta el 28-12-2020, con un total de 24 dosis diarias.
+- **Antibióticos:** Meropenem, del 09-12-2020 al 13-12-2020, para tratar infecciones secundarias.
+- **Dexametasona:** Administrada del 07-12-2020 al 20-12-2020, contribuyendo a la reducción de la inflamación.
+- **Antipiréticos:** Paracetamol, utilizado para controlar la fiebre.
+
+---
+
+## Resultados de Laboratorio
+Los resultados de laboratorio durante la hospitalización no se detallan en el informe, pero se debe considerar que la administración de antibióticos y glucocorticoides puede haber influido en la respuesta clínica del paciente. Se recomienda un seguimiento de los parámetros hematológicos y bioquímicos post-alta para evaluar posibles secuelas.
+
+---
+
+## Progresión Clínica
+El paciente mostró un curso clínico típico de COVID-19, con un empeoramiento inicial caracterizado por fiebre y taquicardia, seguido de una estabilización y eventual recuperación. La administración de oxígeno y glucocorticoides probablemente jugaron un papel crucial en su mejoría. Se observó una normalización de la temperatura y una mejora en la saturación de oxígeno, lo que indica una recuperación respiratoria efectiva.
+
+---
+
+## Conclusión y Recomendaciones
+El paciente se encuentra clínicamente estable al momento del alta, con signos de recuperación significativa. Se recomienda un seguimiento post-alta para evaluar la recuperación completa y posibles secuelas relacionadas con COVID-19. Se sugiere monitorizar la función respiratoria y realizar controles de laboratorio para detectar cualquier complicación tardía.
