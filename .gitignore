@@ -3,3 +3,5 @@
 .env.openia
 arial.ttf
 __pycache__/
+Data/Raw unificados/04_laboratorio.csv
+Data/Processed/04_laboratorio_limpio.csv
